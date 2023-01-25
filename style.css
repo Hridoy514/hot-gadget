@@ -1,0 +1,71 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    margin-left: 15px;
+}
+.custom-carousel h1{
+    font-weight: 800;
+}
+.custom-carousel p{
+    color: gray;
+}
+.custom-carousel a{
+    color: white;
+    background-color: black;
+}
+.carousel-background-2nd{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+.text-color{
+    color: gold;
+    margin-top: -90px;
+    margin-bottom: 100px;
+}
+.Smartphone-section{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.phone-margin{
+    margin-bottom: 50px;
+}
+.card-background{
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    box-shadow:0 0 10px rgb(240, 231, 231);
+}
+.card img{
+    width: 75%;
+    margin-left: 10%;
+}
+.card p{
+    text-align: center;
+    color: gray;
+}
+.card h3{
+    text-align: center;
+}
+.card h4{
+    text-align: center;
+}
+.card a{
+    padding: 7px 30px;
+    color: white;
+    background-color: black;
+    margin-left: 28%;
+}
+.categories{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.cate{
+    text-align: center;
+}
+.positon-fix{
+    justify-content: end;
+}
